@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serhat
 ==============================================================================================================================
 
-Mobile Developer and Blockchain
+Mobile and Blockchain Developer
 -------------------------------
 
 Hi, I'm Serhat Gecgin, I graduated with Computer Programming in 2022. I won certificates by participating in bootcamps in the Blockchain field. I am currently a Certified Developer of the Near Blockchain. I succeeded in studying Flutter with Google's bootcamp. I continue to develop myself in line with my goals.
