@@ -8,7 +8,7 @@ Hi, I'm Serhat Gecgin, I graduated with Computer Programming in 2022. I won cert
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [serhatgecgin65@gmail.com](mailto:serhatgecgin65@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Web Development
 
 ### Skills
 
